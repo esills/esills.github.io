@@ -4,7 +4,6 @@ ul {
   margin-right: 100px;
   margin-top: 60px;
   padding: 0;
-  background: #1abc9c;
   overflow: hidden;
   font-family: 'Sen', sans-serif;
 }
@@ -13,11 +12,19 @@ li {
   float: left;
 }
 
-li a {
+a {
+    text-decoration: none;
+}
+a:link, a:visited {
+    color: black;
+}
+
+.notName {
   display: block;
   text-align: center;
   text-decoration: none;
-  padding: 24px;
+  padding-top: 24px;
+  padding-bottom: 24px;
 }
 
 /*
@@ -28,7 +35,7 @@ h1 {
 }
 */
 
-h3 {
+b {
   font-family: 'Arial', sans-serif;
   margin-left: 100px;
   margin-top: 60px;
