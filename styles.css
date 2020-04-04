@@ -27,14 +27,6 @@ a:link, a:visited {
   padding-bottom: 24px;
 }
 
-/*
-h1 {
-  font-family: 'Sen', sans-serif;
-  margin-left: 100px;
-  margin-top: 60px;
-}
-*/
-
 b {
   font-family: 'Arial', sans-serif;
   margin-left: 100px;
@@ -48,9 +40,4 @@ b {
   justify-content: space-between;
   margin-left: 100px;
   margin-right: 100px;
-}
-
-/*
-.box > div {
-  margin: 20px;
 }
