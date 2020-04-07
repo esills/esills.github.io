@@ -1,7 +1,7 @@
 ul {
   list-style-type: none;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 150px;
+  margin-right: 150px;
   margin-top: 60px;
   padding: 0;
   overflow: hidden;
@@ -15,6 +15,7 @@ li {
 a {
     text-decoration: none;
 }
+
 a:link, a:visited {
     color: black;
 }
@@ -29,7 +30,7 @@ a:link, a:visited {
 
 b {
   font-family: 'Arial', sans-serif;
-  margin-left: 100px;
+  margin-left: 150px;
   margin-top: 60px;
 }
 
@@ -38,6 +39,6 @@ b {
   flex-wrap: wrap;
   flex-direction: row;
   justify-content: space-between;
-  margin-left: 100px;
-  margin-right: 100px;
+  margin-left: 150px;
+  margin-right: 150px;
 }
